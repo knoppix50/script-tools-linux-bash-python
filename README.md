@@ -9,7 +9,7 @@ Centralizar utilidades prácticas para optimizar procesos repetitivos en entorno
 ## 📂 Estructura de Proyectos
 
 ### 🐍 Python Tools
-* **[`internet-images-download-manager-with-python`](./internet-images-download-manager-with-python)**: Gestor de descarga masiva de imágenes desde internet mediante una cola de enlaces (`cola.txt`).
+* **[`internet-images-download-manager-with-python`](./internet-images-download-manager-with-python)**: Gestor de descarga masiva de imágenes desde internet mediante una cola de enlaces (`queue.txt`).
 * **[`facebook-images-download-manager-automatized-with-python`](./facebook-images-download-manager-automatized-with-python)**: Herramienta automatizada para la extracción y descarga de álbumes completos de imágenes.
 
 ### 🐧 Bash & Linux SysAdmin *(Próximamente)*
